@@ -10,3 +10,9 @@
 section {
   padding-top: 5rem;
 }
+
+/* Warna alert pada form */
+.my-alert {
+  background-color: rgb(117, 185, 115);
+}
+/* akhie warna alert pada form */
